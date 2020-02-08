@@ -1,6 +1,6 @@
 # ShellPhish v1.7
 # Anonymous Hack47
-## steps
+## steps for usages
 ```
 pkg i wget php curl -y
 ```
