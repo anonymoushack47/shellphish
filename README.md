@@ -20,3 +20,9 @@ cd shellphish
 bash shellphish.sh
 ```
 # Kuljit Sah
+### Follow us on :-)
+Instagram 👻   :-) https://instagram.com/anonymoushack47
+
+Twitter 🐦🐦   :-) https://twitter.com/anonymoushack47
+
+Facebook 😛📖  :-) https://facebook.com/anonymoushack47
